@@ -40,7 +40,7 @@ build.bat is for building the project while clean.bat cleans .exe and .o files p
 4. Click output.exe to view the output.
 
 In case of linking errors, You probably need to build the libraries yourself.\
-You can use cmake to buid the libraries.\
+You can use cmake to buid the libraries.
 
 ### Helpful links
 
