@@ -1,0 +1,134 @@
+# Blender MTL File: 'dharaharaSerious.blend'
+# Material Count: 11
+
+newmtl Wood_A
+Ns 225.000000
+Ka 0.745455 0.745455 0.745455
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd textures\\Wood_A.jpg
+
+newmtl base_material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump dirty_concrete_1k_jpg\\dirty_concrete_nor_1k.jpg
+map_Kd dirty_concrete_1k_jpg\\dirty_concrete_diff_1k.jpg
+
+newmtl base_material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump dirty_concrete_1k_jpg\\dirty_concrete_nor_1k.jpg
+map_Kd dirty_concrete_1k_jpg\\dirty_concrete_diff_1k.jpg
+map_Ns dirty_concrete_1k_jpg\\dirty_concrete_rough_1k.jpg
+
+newmtl bench_material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump bench 27 Texture 1K\\bench 27 Normal 1K.jpg
+map_Kd bench 27 Texture 1K\\bench 27 Diffuse 1K.jpg
+map_Ns bench 27 Texture 1K\\bench 27 Roughness 1K.jpg
+refl bench 27 Texture 1K\\bench 27 Metal 1K.jpg
+
+newmtl bench_material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump dharahara\\bench 27 Texture 1K\\bench 27 Normal 1K.jpg
+map_Kd bench 27 Texture 1K\\bench 27 Diffuse 1K.jpg
+map_Ns bench 27 Texture 1K\\bench 27 Roughness 1K.jpg
+refl bench 27 Texture 1K\\bench 27 Metal 1K.jpg
+
+newmtl destroyed_material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.127273 0.127273 0.127273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump rough_plaster_broken_1k_jpg\\rough_plaster_broken_Nor_1k.jpg
+map_Kd rough_plaster_broken_1k_jpg\\rough_plaster_broken_diff_1k.jpg
+map_Ns rough_plaster_broken_1k_jpg\\rough_plaster_broken_rough_1k.jpg
+
+newmtl dharahara_Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.785709 0.771568 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd augustine-wong-3Om4DHcaAc0-unsplash.jpg
+
+newmtl fence_material
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd black_painted_steel.jpg
+
+newmtl floor_material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.513636 0.513636 0.513636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd brickfloor.jpg
+
+newmtl gajur_material
+Ns 225.000000
+Ka 0.745455 0.745455 0.745455
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd TexturesCom_Paint_GoldFake_header.jpg
+
+newmtl wall_material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd augustine-wong-3Om4DHcaAc0-unsplash.jpg
